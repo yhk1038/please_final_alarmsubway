@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">내릴 <![CDATA["'"]]>각<![CDATA["'"]]></string>
+    <string name="action_settings">이거 쩜쩜쩜 없애고 돋보기 달꺼야 방해하지마</string>
+    <string name="one">나는 메인 페이지야 최근에 알람을 설정했던 역들을 보여주지</string>
+    <string name="two">나는 즐겨찾기 페이지야 진이야 나 좀만 더 이쁘게 만들어주면 안돼?</string>
+    <string name="three">나는 알람 설정 페이지가 되어 볼 생각이야</string>
+    <string name="four">나는 뭐 하지? 빈공간 하고싶은데...</string>
+    <string name="five">뭘봐? 나한테 GPS 켜는 기능 달아줄꺼 아니면 ㄲㅈ</string>
+    <string name="six">짐은 인생이 무상하도다.. 그저 알람 켜고 끄는 스위치쯤이나 되고싶노라..</string>
+</resources>
